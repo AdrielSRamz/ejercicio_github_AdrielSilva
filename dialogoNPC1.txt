@@ -1,5 +1,7 @@
-Hola viajeros
+"Hola viajeros"
 
-Se los ve agotados
+"Se los ve agotados"
 
-¿Desean ingresar a la posada y descansar?
+"¿Desean ingresar a la posada y descansar?"
+
+["DialogoNPC-NO"]
