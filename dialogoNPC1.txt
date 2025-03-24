@@ -4,4 +4,6 @@
 
 "¿Desean ingresar a la posada y descansar?"
 
-["dialogoNPC-SI"]
+
+["dialogoNPC-SI","dialogoNPC-NO"]
+
