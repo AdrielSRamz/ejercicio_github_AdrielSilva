@@ -4,4 +4,8 @@
 
 ¿Quieres ganarte unos Juyypesos?
 
-["DialogoNPC-SI"]
+
+["DialogoNPC-SI"]["dialogoNPC-NO"]
+
+
+
